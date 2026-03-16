@@ -91,6 +91,7 @@ This project is created for **educational and academic purposes** as part of a *
 ## 👨‍💻 Authors
 
 * **Harpreet Singh**
-* Team Members: *(Add teammates if applicable)*
+* **Ishaan Saxena**
+* **Hardesh Agarwal**
 
 ---
