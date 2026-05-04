@@ -18,6 +18,9 @@ export default defineConfig({
       '@': path.join(root, 'src'),
     },
   },
+  build: {
+    outDir: 'build',
+  },
   server: {
     proxy: {
       '/api': {
